@@ -5,11 +5,7 @@ module.exports = appInfo => {
 
   exports.alinode = {
     appid: '54171',
-    secret: 'c308e971092ae7d64c2640430c9ecc2ab6fdcf1e',
-    logdir: '/tmp/',
-    error_log: [
-      '/root/.logs/error.#YYYY#-#MM#-#DD#.log'
-    ]
+    secret: 'c308e971092ae7d64c2640430c9ecc2ab6fdcf1e'
   };
 
   // use for cookie sign key, should change to your own and keep security
